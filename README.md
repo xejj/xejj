@@ -7,7 +7,7 @@
 
 ---
 
-[ ![Social](https://github.com/xejj)
+[ ![Social](https://github.com/xejj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
