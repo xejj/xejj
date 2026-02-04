@@ -7,12 +7,6 @@
 
 ---
 
-[ ![Social](https://github.com/xejj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 ### 🛡️ Cybersecurity Focus
 * **Active Research:** Penetration testing, vulnerability assessment, and securing RESTful APIs.
 * **Tooling:** Developing custom Python scripts for network scanning and automated reconnaissance.
